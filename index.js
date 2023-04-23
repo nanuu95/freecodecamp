@@ -1,3 +1,3 @@
-// THis is a comment
-/*this is a 
+// those is a comment
+/*those is a 
 comment */
